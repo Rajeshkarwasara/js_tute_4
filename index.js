@@ -1,4 +1,4 @@
-let r="hello 'rajesh' how  Rajesh are you"
+let r="heello 'rajesh' how  Rajesh are you"
 console.log(r);
 let r2=r.replace(/Rajesh/gi,"raju")
 console.log(r2);
